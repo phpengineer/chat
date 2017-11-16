@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;chat&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../puffer" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../web" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../openbak" />
+      <root url="file://$PROJECT_DIR$/../image-go" />
+      <root url="file://$PROJECT_DIR$/../api" />
+      <root url="file://$PROJECT_DIR$/../open" />
+      <root url="file://$PROJECT_DIR$/../go-tls" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopub" />
+      <root url="file://$PROJECT_DIR$/../graphics-go" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../puffer" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../web" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../openbak" />
+      <root url="file://$PROJECT_DIR$/../image-go" />
+      <root url="file://$PROJECT_DIR$/../api" />
+      <root url="file://$PROJECT_DIR$/../open" />
+      <root url="file://$PROJECT_DIR$/../go-tls" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopub" />
+      <root url="file://$PROJECT_DIR$/../graphics-go" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
